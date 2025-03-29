@@ -3,3 +3,4 @@ streamlit
 langchain_core
 langchain_community
 langchain_groq
+duckduckgo-search
