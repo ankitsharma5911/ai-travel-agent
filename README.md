@@ -95,7 +95,7 @@ streamlit run app.py
 
 ## 🌐 Deployed Application
 
-[**Live Streamlit Link**](#)
+[**Live Streamlit Link**](https://ai-travel-planner-24x7.streamlit.app/)
 
 ---
 
